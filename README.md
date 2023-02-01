@@ -31,10 +31,10 @@
 
   ## 📧📞 Contact me
   <div>
-    <a href="danielassuncao.developer@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlLCQRtnJBLSTFNdDhCvmdjVgbNQFWPplCGgtzTXNCsGQMmwgmbzbqGflFlDWwkdhCXV">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
     </a>
-    <a href="wa.me/5511975440163">
+    <a href="https://api.whatsapp.com/send/?phone=5511975440163&text&type=phone_number&app_absent=0">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/daniel-assunção-5037b5222/">
