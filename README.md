@@ -4,15 +4,15 @@
   - 💻 I'm Backend Developer
   - 💖 Always trying to be better
   - 🎮 17 years old
-
+  
+<br>
 <div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=DanielAssuncaoDeveloper&show_icons=true&theme=tokyonight"/>
-    <img style="top:0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&show_icons=true&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&show_icons=true&theme=tokyonight"/>
   </div>
 
-
-  ## Skills
+  ## ⚡🔥 Skills
   <div>
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
