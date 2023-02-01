@@ -8,8 +8,8 @@
 <br>
 <div align="center">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=DanielAssuncaoDeveloper&show_icons=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&show_icons=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DanielAssuncaoDeveloper&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&show_icons=true&theme=radical"/>
   </div>
 
   ## ⚡🔥 Skills
