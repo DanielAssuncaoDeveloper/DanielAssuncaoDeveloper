@@ -32,7 +32,7 @@
 
   ## 📧📞 Contact me
   <div>
-    <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDlLCQRtnJBLSTFNdDhCvmdjVgbNQFWPplCGgtzTXNCsGQMmwgmbzbqGflFlDWwkdhCXV">
+    <a href="mailto:danielassuncao.developer@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
     </a>
     <a href="https://api.whatsapp.com/send/?phone=5511975440163&text&type=phone_number&app_absent=0">
