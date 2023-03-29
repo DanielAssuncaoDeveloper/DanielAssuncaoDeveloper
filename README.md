@@ -4,7 +4,9 @@
   - 💻 I'm Backend Developer
   - 💖 Always trying to be better
   - 🎮 17 years old
-  
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/danielassuncao)
+
 <br>
 <div align="center">
   <div>
