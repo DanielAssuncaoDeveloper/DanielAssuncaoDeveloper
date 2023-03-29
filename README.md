@@ -5,14 +5,13 @@
   - 💖 Always trying to be better
   - 🎮 17 years old
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/danielassuncao)
-
 <br>
 <div align="center">
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielAssuncaoDeveloper&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
-
+    <br>
+    <img width="500em" src="https://leetcard.jacoblin.cool/danielassuncao" /> 
   </div>
 
   ## ⚡🔥 Skills
