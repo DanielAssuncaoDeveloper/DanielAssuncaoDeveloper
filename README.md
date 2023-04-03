@@ -11,7 +11,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanielAssuncaoDeveloper&show_icons=true&theme=tokyonight"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAssuncaoDeveloper&layout=compact&langs_count=7&theme=tokyonight"/>
     <br>
-    <img width="500em" src="https://leetcard.jacoblin.cool/danielassuncao" /> 
+    <img width="500em" src="https://leetcard.jacoblin.cool/DanielAssuncaoDeveloper" /> 
   </div>
 
   ## ⚡🔥 Skills
