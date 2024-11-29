@@ -14,7 +14,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=810DA9&height=120&section=footer"/>
 
 
-                  .model small
+```
+.model small
 .stack 100h
 
 .data
@@ -95,3 +96,5 @@ no_swap:
     dec cx
     jnz outer_loop           ; Continua o loop externo
     ret
+
+```
